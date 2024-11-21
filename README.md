@@ -1,4 +1,4 @@
-# Containment Zone Alerting App
+# Contaminant Zone Alerting App
 
 ## Features Overview:
 1)	Sign-up verification by phone number. User registration contains name, age, home address, work address (optional).
