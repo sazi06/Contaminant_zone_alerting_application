@@ -22,7 +22,7 @@ Location tracking is enabled by the user and is informed to the user via a fixed
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;![User Location Permission](https://github.com/sazi06/Contaminment-zone-alerting-application/blob/main/screenshots/permission.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Permission Explanation](https://github.com/sazi06/Containment-zone-alerting-application/blob/main/screenshots/permission-explanation.png)
+&nbsp;&nbsp;&nbsp;&nbsp;![User Location Permission](https://github.com/sazi06/Contaminant-zone-alerting-application/blob/main/screenshots/permission.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Permission Explanation](https://github.com/sazi06/Containant-zone-alerting-application/blob/main/screenshots/permission-explanation.png)
 
 <br>
 <br>
@@ -35,7 +35,7 @@ The block generation is similar to hashing function by providing a key that is t
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Locations of close contact with covid-19 positive person/s](https://github.com/sazi06/Contaminment-zone-alerting-application/blob/main/screenshots/infected-locations.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Infected person recorded location block](https://github.com/sazi06/Containment-zone-alerting-application/blob/main/screenshots/map-boxed-area.png)
+&nbsp;&nbsp;&nbsp;&nbsp;![Locations of close contact with covid-19 positive person/s](https://github.com/sazi06/Contaminant-zone-alerting-application/blob/main/screenshots/infected-locations.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Infected person recorded location block](https://github.com/sazi06/Containant-zone-alerting-application/blob/main/screenshots/map-boxed-area.png)
 
 <br>
 <br>
