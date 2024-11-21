@@ -22,7 +22,7 @@ Location tracking is enabled by the user and is informed to the user via a fixed
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;![User Location Permission](https://github.com/sazi06/Contaminant-zone-alerting-application/blob/main/screenshots/permission.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Permission Explanation](https://github.com/sazi06/Containant-zone-alerting-application/blob/main/screenshots/permission-explanation.png)
+&nbsp;&nbsp;&nbsp;&nbsp;![User Location Permission](https://github.com/sazi06/Contaminant_zone_alerting_application/blob/main/screenshots/permission.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Permission Explanation](https://github.com/sazi06/Containant-zone-alerting-application/blob/main/screenshots/permission-explanation.png)
 
 <br>
 <br>
